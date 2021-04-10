@@ -1,0 +1,10 @@
+E:\lt .net\GK\GK\Câu1\obj\Debug\Câu1.csprojAssemblyReference.cache
+E:\lt .net\GK\GK\Câu1\obj\Debug\Câu1.Form1.resources
+E:\lt .net\GK\GK\Câu1\obj\Debug\Câu1.Properties.Resources.resources
+E:\lt .net\GK\GK\Câu1\obj\Debug\Câu1.csproj.GenerateResource.cache
+E:\lt .net\GK\GK\Câu1\obj\Debug\Câu1.csproj.CoreCompileInputs.cache
+E:\lt .net\GK\GK\Câu1\bin\Debug\Câu1.exe.config
+E:\lt .net\GK\GK\Câu1\bin\Debug\Câu1.exe
+E:\lt .net\GK\GK\Câu1\bin\Debug\Câu1.pdb
+E:\lt .net\GK\GK\Câu1\obj\Debug\Câu1.exe
+E:\lt .net\GK\GK\Câu1\obj\Debug\Câu1.pdb
